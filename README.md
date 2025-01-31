@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://atidcollege.co.il/wp-content/uploads/2024/03/logo_new_3-250x63.png" alt="Banner Image">
+  <img width="250px" src="https://atidcollege.co.il/wp-content/uploads/2024/03/logo_new_3.png" alt="Banner Image">
 </p>
 
 <h1 align="center">Yoni Flenner</h1>
@@ -34,16 +34,16 @@ With extensive experience in test automation, software quality assurance, and AI
 Here are some of my **favorite projects** that I've worked on:
 
 #### 🚀 [AI-Powered Test Data Generator](https://github.com/yourusername/project1)
-🔹 **Description:** Generates test data for automation frameworks using AI-driven models.  
-![Preview](https://source.unsplash.com/600x300/?technology)  
+🔹 **Description:** Generates test data for automation frameworks using AI-driven models. 
+<p align="left"><img width="450px" src="https://atidcollege.co.il/Xamples/images/app-creator.png" alt="Banner Image"></p>
 
 #### 🤖 [QA Mentor](https://github.com/yourusername/project2)
 🔹 **Description:** A smart **test case generator** that helps QA engineers structure test plans efficiently.  
-![Preview](https://source.unsplash.com/600x300/?ai,robotics)
+<p align="left"><img width="450px" src="https://atidcollege.co.il/Xamples/images/my-coding-task.png" alt="Banner Image"></p>
 
 #### 🎬 [Movie Manager](https://github.com/yourusername/movie-manager)
-🔹 **Description:** A **React & Node.js movie catalog app** with CRUD functionalities and IMDb API integration.  
-![Preview](https://source.unsplash.com/600x300/?cinema,movie)
+🔹 **Description:** A **React & Node.js Image creator app** with CRUD functionalities and Flux integration.  
+<p align="left"><img width="450px" src="https://atidcollege.co.il/Xamples/images/image-creator.png" alt="Banner Image"></p>
 
 ---
 
@@ -56,9 +56,7 @@ Here are some of my **favorite projects** that I've worked on:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak">
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.visitor-badge" alt="Profile Visitors">
-</p>
+
 
 ---
 
